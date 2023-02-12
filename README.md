@@ -34,4 +34,6 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Ericofff/count.svg" /></p>
 
 
+
 ![snake gif](https://github.com/Ericofff/Ericofff/blob/output/github-contribution-grid-snake.svg)
+
