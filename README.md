@@ -34,4 +34,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
 
 
-![snake gif](https://github.com/Ericofff/Portifolio/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ericofff/Ericofff/blob/output/github-contribution-grid-snake.svg)
